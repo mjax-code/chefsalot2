@@ -1,3 +1,6 @@
+The PostCss setup can be found here. https://dev.to/puritanic/add-postcss-to-create-react-app--5hj8
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
